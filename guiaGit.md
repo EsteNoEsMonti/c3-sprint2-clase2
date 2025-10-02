@@ -8,4 +8,4 @@ agrega en stage
 `git commit -m "mensaje"`
 prepara el stage para subirlo al repo
 
-`git push origin nombreRama`
+`git push origin nombreRama2`

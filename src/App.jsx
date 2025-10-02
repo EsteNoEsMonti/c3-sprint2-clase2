@@ -14,6 +14,7 @@ const App = () => {
         <br />
         <ThemeSwitcher />
       </div>
+      <p>Bokita el mas grande!</p>
     </>
   )
 }
