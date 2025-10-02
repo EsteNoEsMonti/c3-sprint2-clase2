@@ -9,3 +9,5 @@ agrega en stage
 prepara el stage para subirlo al repo
 
 `git push origin nombreRama2`
+
+ya inicimos el git clone
